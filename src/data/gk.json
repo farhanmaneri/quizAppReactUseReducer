@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "statement": "1. Which among the following is the biggest animal in the world?",
+        "options":[
+            "Blue Whale",
+            "Shark",
+            "Elephant",
+            "Camel"
+        ],
+        "answerIndex":"Blue Whale"
+    },
+    {
+        "id": 2,
+        "statement": "2. where among the following is the biggest animal in the world?",
+        "options":[
+            "Blue Whale",
+            "Shark",
+            "Elephant",
+            "Camel"
+        ],
+        "answerIndex": "Blue Whale"
+    },
+    {
+        "id": 3,
+        "statement": "3. Which among the following is the biggest animal in the world?",
+        "options":[
+            "Blue Whale",
+            "Shark",
+            "Elephant",
+            "Camel"
+        ],
+        "answerIndex": "Blue Whale"
+    },
+    {
+        "id": 4,
+        "statement": "4. Which among the following is the biggest animal in the world?",
+        "options":[
+            "Blue Whale",
+            "Shark",
+            "Elephant",
+            "Camel"
+        ],
+        "answerIndex":  "Blue Whale"
+
+    },
+    {
+        "id": 5,
+        "statement": "5. whic is the capital of pakistan?",
+        "options":[
+            "Lahore",
+            "Islamabad",
+            "Punjab",
+            "Peshawar"
+        ],
+        "answerIndex": "Islamabad"
+    }
+]
